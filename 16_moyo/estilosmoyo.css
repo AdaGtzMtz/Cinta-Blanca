@@ -1,0 +1,80 @@
+body{
+    
+    display: flex;
+    
+    flex-flow: column wrap;
+    align-content: space-around;
+    justify-content: center;
+    
+}
+.encabezado{
+    border:2px solid green;
+    height: 26%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-end;
+}
+
+.links{
+    border:2px solid blue;
+    height: 20%;
+   
+    
+    
+}
+.nav-item{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banderas{
+    border:2px solid yellow;
+    
+    display:flex;
+    flex-direction: row-reverse;
+    
+}
+.instagram{
+    font-size: 45px;
+    color: #969696;
+}
+.facebook{
+    font-size: 45px;
+    color:#969696;
+}
+.twitter{
+    font-size: 45px;
+    color:#969696;
+}
+
+.logo{
+    border: 2px solid pink;
+    height: 78%;
+    width: 33%;
+    padding: 1%;
+}
+.cuerpo{
+    border:2px solid black;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+
+
+.intro{
+    border:2px solid red;
+  
+}
+.inicio{
+    
+}
+.sabores{
+    border:2px solid pink;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+
+

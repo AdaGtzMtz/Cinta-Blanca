@@ -1,0 +1,39 @@
+/* quitamos el borde por defecto del navegador */
+
+body{
+    margin:0;
+}
+
+.cajaencab{
+    border: 2px solid red;
+    /* height: 40px;
+    margin-bottom: 45px; */
+    height: 50px;
+    width: 1325px;
+    padding: 20px;
+    
+}
+
+.caja4iconos{
+    border: 2px solid purple;
+    height: 30px;
+    width: 765px;
+    padding: 10px;
+    
+} 
+ 
+ .cuerpo{
+    border: 2px solid blue;
+    height: 550px;
+    width: 1350px;
+ }
+
+.centro{
+    border: 2px solid green; 
+    height: 350px;
+    width: 750px;
+    margin: 100px;
+    
+
+}
+

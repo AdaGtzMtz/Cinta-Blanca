@@ -1,0 +1,19 @@
+*{
+    background: blue;
+
+}
+
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+.big{
+    width:500px;
+    border-radius: 50%;
+}
+
+.small{
+    width: 250px;
+    border-radius: 30px;
+}
